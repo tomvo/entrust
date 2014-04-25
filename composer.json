@@ -13,12 +13,6 @@
             "homepage": "http://www.andrewelkins.com"
         }
     ],
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/tomvo/ardent.git"
-        }
-    ],
     "require": {
         "php": ">=5.4.0",
         "illuminate/support": "4.x",
